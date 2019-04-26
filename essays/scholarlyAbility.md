@@ -13,7 +13,7 @@ This page is to show evidence of scholarly ability, as required for the ICS [PhD
 
 ## Lit Review
 
-[Survey of Research Software for Building Virtual Reality Systems](https://d-k-k.github.io/essays/)
+[Survey of Research Software for Building Virtual Reality Systems](https://d-k-k.github.io/essays/Dylan_Kobayashi-literature_review.pdf)
 
 ## Publications
 
@@ -66,7 +66,7 @@ Simon Su, Vincent Perry, Nicholas Cantner, **Dylan Kobayashi**, and Jason Leigh.
 2016 IEEE Collaboration Technologies and Systems (CTS).
 DOI: https://doi.org/10.1109/CTS.2016.0059
 
-### ParaSAGE: Scalable Web-based Scientific Visualization for Ultra Resolution Display Environment
+### ParaSAGE: Scalable Web-based Scientific Visualization for Ultra Resolution Display Environment (Poster)
 Dylan Kobayashi, Simon Su, Luis Bravo, Jason Leigh, and Dale Shires.
 2016 IEEE VAST, InfoVis, SciVis (VIS)
 [IEEE VIS 2016 poster list](http://ieeevis.org/year/2016/info/overview-amp-topics/posters)
