@@ -6,7 +6,7 @@
     "email": "dylank@hawaii.edu",
     "phone": "",
     "website": "https://d-k-k.github.io",
-    "summary": "I am working towards a Ph.D. in Computer Science at the University of Hawaii at Manoa. I hope to graduate in Spring, 2019.",
+    "summary": "I am working towards a Ph.D. in Computer Science at the University of Hawaii at Manoa.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -29,22 +29,32 @@
   },
   "interests": [
     {
-      "name": "virtual reality",
+      "name": "Web Applications",
       "keywords": [
       ]
     },
     {
-      "name": "augmented reality",
+      "name": "Visualization",
       "keywords": [
       ]
     },
     {
-      "name": "tiled displays",
+      "name": "Virtual Reality",
       "keywords": [
       ]
     },
     {
-      "name": "networks",
+      "name": "Augmented reality",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Tiled displays",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Networks",
       "keywords": [
       ]
     }
@@ -54,30 +64,31 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C#",
+        "Javascript",
         "Java",
-        "Javascript"
+        "C#",
+        "C"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Windows",
-        "Git/GitHub"
+				"Nodejs",
+				"WebSockets",
+				"WebRTC",
+				"Unity3D"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "Ph.D.",
       "startDate": "2015",
       "endDate": "Present",
-      "gpa": "4.0",
+      "gpa": "3.96",
       "courses": [
       ]
     },
@@ -87,7 +98,7 @@
       "studyType": "M.S.",
       "startDate": "2011",
       "endDate": "2015",
-      "gpa": "4.0",
+      "gpa": "3.95",
       "courses": [
       ]
     },
@@ -97,7 +108,7 @@
       "studyType": "B.S.",
       "startDate": "2006",
       "endDate": "2011",
-      "gpa": "3.5",
+      "gpa": "3.43",
       "courses": [
       ]
     }
@@ -116,28 +127,75 @@
       ]
     },
     {
+      "company": "National Institute of Advanced Industrial Science and Technology",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2017",
+      "endDate": "Summer",
+      "summary": "Assisted their visualization group with presenting sensor data and guiding undergrad interns.",
+      "highlights": [
+        "Setup and configured two tiled display walls",
+        "Hosted training workshops for undergrad interns",
+        "Cleaned and formatted water sensor data from a Japanese government disaster prevention website. Data was presented in virtual reality and web applications",
+				"This internship lead to a publication: [SageRDI](https://dl.acm.org/citation.cfm?doid=3279778.3279798)"
+      ]
+    },
+    {
+      "company": "Army Research Lab at Aberdeen Proving Grounds",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2016",
+      "endDate": "Summer",
+      "summary": "Assisted in setup and planning of a visualization room.",
+      "highlights": [
+        "Installation, cabling, and configuration of tiled display wall and computer rack",
+        "Software integration of  ParaViewWeb(https://www.paraview.org/web/) with  SAGE2(http://sage2.sagecommons.org)",
+        "Background security check conducted, obtained interim status during stay",
+				"This internship lead to a poster: [ParaSAGE](http://ieeevis.org/year/2016/info/overview-amp-topics/posters)"
+      ]
+    },
+    {
+      "company":  "Keolu Elementary, Hawaii",
+      "position": "Technology Coordinator",
+      "website": "",
+      "startDate": "2008",
+      "endDate": "2015",
+      "summary": "Involved with planning of new equipment for usage in classroom and training teachers",
+      "highlights": [
+        "Installation and maintenance of all electronics on campus",
+        "Hosted workshops for teachers regarding equipment / software usage and scenarios",
+        "Helped teachers with electronic document generation and records compliance"
+      ]
+    },
+    {
       "company":  "University of Hawaii at Manoa",
       "position": "Teaching Assistant",
       "website": "",
       "startDate": "2012",
       "endDate": "2014",
-      "summary": "",
+      "summary": "Assisted with ICS 111 (Introduction to programming through Java), 212(Program Structure using C++), and 321(Data Storage & Retrieval). Duties included:",
       "highlights": [
-        "ICS111: Introduction to programming through Java",
-        "ICS212: Program Structure using C++",
-        "ICS321: Data Storage & Retrieval"
+        "Grading homework, quizzes, and exams",
+        "Create homework and projects (ICS 111 and ICS 212)",
+				"Plan and run 45 minute labs to cover topics (ICS 111)",
+				"Lecture on class topics (ICS 111)"
+      ]
+    },
+    {
+      "company":  "Institute for Astronomy, University of Hawaii at Manoa",
+      "position": "Technician",
+      "website": "",
+      "startDate": "2008",
+      "endDate": "2015",
+      "summary": "Setup a [KeckCAVES](http://keckcaves.org/about/start) and trained researchers in usage",
+      "highlights": [
+        "Built the mounting structure for the tracking system",
+        "Installed and configured software for tracking, controller interface, and rendering",
+        "Assisted with cleaning and formatting data for rendering"
       ]
     }
   ],
-  "volunteer": [
-  ],
-  "awards": [
-    
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+  "volunteer":,
+  "awards":,
+  "references":,
 }
